@@ -1,4 +1,3 @@
-// CLASS 1
 void main() {
 // PRACTICE
 
@@ -34,5 +33,3 @@ void main() {
 }
 
 // QUIZ
-
-// CLASS 1
